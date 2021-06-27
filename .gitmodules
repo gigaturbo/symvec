@@ -1,0 +1,6 @@
+[submodule "ext"]
+	path = ext
+	url = git@github.com:thenumbernine/lua-ext.git
+[submodule "symmath"]
+	path = symmath
+	url = git@github.com:thenumbernine/symmath-lua.git
